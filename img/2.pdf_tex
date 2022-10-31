@@ -1,0 +1,82 @@
+%% Creator: Inkscape 1.2 (dc2aedaf03, 2022-05-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '2.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{442.32606576bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.53470692)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{2.pdf}}%
+    \put(0.22757588,0.42148702){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Tendon Excentrico}\end{tabular}}}}%
+    \put(0.01071637,0.1611515){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle F/A}$\end{tabular}}}}%
+    \put(0.07427213,0.25733275){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}+\end{tabular}}}}%
+    \put(-0.00001817,0.10752598){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Debido al}\end{tabular}}}}%
+    \put(0.33071568,0.11802596){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Debido al}\end{tabular}}}}%
+    \put(-0.00027093,0.02355393){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Nota.- Sombreado a la izquierda de la sección (Compresión).}\end{tabular}}}}%
+    \put(0.3385493,0.25823761){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle M \cdot y / I}$\end{tabular}}}}%
+    \put(0.29928073,0.15988708){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle M \cdot c / I}$\end{tabular}}}}%
+    \put(0.48185236,0.25519421){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.14955846,0.23208112){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle F \cdot e_y / I}$\end{tabular}}}}%
+    \put(0.10405434,0.15902221){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle F \cdot e_c / I}$\end{tabular}}}}%
+    \put(0.27761074,0.25465958){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}+\end{tabular}}}}%
+    \put(0.12701642,0.11264299){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Debido a la}\end{tabular}}}}%
+    \put(0.50681947,0.11025871){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Debido al presfuerzo}\end{tabular}}}}%
+    \put(0.49582035,0.15682225){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle \frac{F}{A} \pm \frac{F \cdot e_c}{I} \pm \frac{M \cdot c}{I}}$\end{tabular}}}}%
+    \put(0.55645232,0.29270915){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}${\scriptstyle \frac{F}{A} \pm \frac{M \cdot c}{I}}$\end{tabular}}}}%
+    \put(-0.00044045,0.08606304){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize presfuerzo F}\end{tabular}}}}%
+    \put(0.12539045,0.09270836){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize excentricidad del}\end{tabular}}}}%
+    \put(0.12539045,0.06599327){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize presfuerzo}\end{tabular}}}}%
+    \put(0.0449807,0.00333044){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize Sombreado a la derecha de la sección (Tracción).}\end{tabular}}}}%
+    \put(0.33071568,0.09131087){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize momento}\end{tabular}}}}%
+    \put(0.33071568,0.06711608){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize exterior M}\end{tabular}}}}%
+    \put(0.50581135,0.08808014){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize excentrico y el momento}\end{tabular}}}}%
+    \put(0.50715056,0.06632965){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}{\scriptsize exterior M}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
